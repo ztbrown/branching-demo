@@ -1,0 +1,14 @@
+{
+  "name": "branching-demo",
+  "scripts": {
+    "postdeploy": "rake db:migrate"
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
